@@ -13,6 +13,10 @@ To build a year-in-review for a user's music listening habits (like Spotify Wrap
 - Python
 - matplotlib
 - pandas
+- Seaborn
+- Web scraping or API usage (Spotify API)
+- datetime
+- NLTK (for sentiment analysis)
 
 ## Skills
 -Data modeling,trend analysis,data storytelling
